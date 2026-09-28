@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/baketrace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bake numeric trace values, ranges, and human-readable units.",
+  "bin": {
+    "baketrace": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/baketrace.git"
+  },
+  "homepage": "https://theworker02.github.io/baketrace/",
+  "keywords": [
+    "bake",
+    "trace",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
